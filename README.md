@@ -1,6 +1,6 @@
 ## About
 
-This project uses functional components, props, api data fetching, proper folder structure and other react.js features. The sole purpose of this project is to demonstrate my current skills on react.js and javascript. 
+This project uses functional components, effects, props, api data fetching, proper folder structure and other react.js features. The sole purpose of this project is to demonstrate my current skills on react.js and javascript. 
 
 
 
